@@ -28,3 +28,6 @@ bundle exec ruby process-cmap.rb [original otf font]
 
 Fixed font will be generated in the `cmap_modified` directory.
 
+## Related article 
+
+http://qiita.com/skoji/items/5683caa17eaa46b2a78d (in Japanese)
