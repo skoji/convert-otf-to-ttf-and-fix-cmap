@@ -30,4 +30,4 @@ Fixed font will be generated in the `cmap_modified` directory.
 
 ## Related article 
 
-http://qiita.com/skoji/items/5683caa17eaa46b2a78d (in Japanese)
+https://skoji.jp/blog/2020/03/otf-to-ttf.html (in Japanese)
